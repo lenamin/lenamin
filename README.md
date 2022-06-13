@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Hyemin
+I'm currently learning Swift & UIKit & SwiftUI. 
 
-<!--
-**lenamin/lenamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stacks
+<img src="https://img.shields.io/badge/-iOS-%23000000?style=plastic&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/swift-E34F26?style=plastic&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=plastic&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+<!--START_SECTION:activity-->
+
+
+ 
+![Lena's github stats](https://github-readme-stats.vercel.app/api?username=lenamin&show_icons=true&theme=dracula)
