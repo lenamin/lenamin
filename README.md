@@ -3,7 +3,9 @@
 # Hyemin Seok
 I'm an iOS developer keenly interested in `music entertainment`, `productivity` and `accessibility` apps.
 
-##### [Portfolio](https://github.com/lenamin/lenamin/files/15023326/iOS_HyeminSeok_Portfolio.pdf) | [Blog](https://lenaminn.oopy.io)
+#### [View Portfolio](https://github.com/lenamin/lenamin/files/15023326/iOS_HyeminSeok_Portfolio.pdf) | [Visit Blog](https://lenaminn.oopy.io)
+
+<br>
 
 
 ## About Me 
