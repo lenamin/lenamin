@@ -9,6 +9,7 @@ I'm an iOS developer with a keen interest in **music entertainment**, **producti
 
   
 ### [Visit Velog](https://velog.io/@lenaminn/posts) | [Visit Notion](https://lenalog.notion.site/Lena-s-Archive-27c0f292290e46c9ad2867382ce78005?pvs=4)
+![julieeee](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=julieeee&theme=swift&size=medium&back_color=fff8e6&sub_color=ff4013&compact=1&use_back_color=1&use_border=1&use_shadow=1) <br>
 
 </div>
 
