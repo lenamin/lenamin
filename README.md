@@ -8,8 +8,7 @@ I'm an iOS developer with a keen interest in **music entertainment**, **producti
 🍎 Apple Developer Academy @ POSTECH, 1st Cohort  
 
   
-### [Visit Velog](https://velog.io/@lenaminn/posts) | [Visit Notion](https://lenalog.notion.site/Lena-s-Archive-27c0f292290e46c9ad2867382ce78005?pvs=4)
-[![julieeee](http://mazassumnida.wtf/api/v2/generate_badge?boj=julieeee)](https://solved.ac/julieeee)
+### [Visit Velog](https://velog.io/@lenaminn/posts)
 
 </div>
 
